@@ -36,6 +36,11 @@ Barbershop systems typically involve booking and scheduling features to manage c
 - Integrated frontend with backend using PHP
 - Designed database interactions with MySQL
 
+## Reference
+
+Original repository:  
+👉 https://github.com/Brian2994/Barbearia_Projeto_Web
+
 ---
 
 ## 🇧🇷 Versão em Português
