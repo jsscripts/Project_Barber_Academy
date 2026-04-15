@@ -1,50 +1,54 @@
-# Driver Face Recognition System
+# 💈 Barbershop Management System
 
-This project explores the use of Computer Vision and Artificial Intelligence for driver identification in automotive environments.
+This project is a web application developed to simulate a barbershop management system, allowing users to schedule services and manage appointments in a simple and intuitive way.
 
 ## Features
 
-- Face detection and recognition
-- Image processing using computer vision techniques
-- Data extraction and analysis
-- Automation of recognition processes
+- User authentication (login and registration)
+- Session management
+- Appointment scheduling system
+- Real-time availability validation
+- Dynamic interface for user interaction
 
 ## Technologies
 
-- Python
-- OpenCV
-- YOLO
-- Roboflow
-- Google Colab
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
 
 ## Project Overview
 
-This project was developed as part of an academic research (final project), focusing on applying AI techniques to real-world automotive scenarios.
+This project was built as part of my learning journey in web development, focusing on backend logic, user authentication, and database integration.
 
-Facial recognition systems are widely used in security and identification systems, leveraging computer vision algorithms to analyze and recognize human faces.
+Barbershop systems typically involve booking and scheduling features to manage customer appointments efficiently :contentReference[oaicite:0]{index=0}.
+
+## How to Run
+
+1. Clone the repository
+2. Configure a local server (XAMPP, WAMP, etc.)
+3. Import the database into MySQL
+4. Run the project in your browser
 
 ## My Contributions
 
-- Worked on face detection and recognition pipeline
-- Applied computer vision techniques for image processing
-- Contributed to testing and model integration
-- Assisted in data handling and experimentation
-
-## Reference
-
-Original repository:  
-👉 https://github.com/jsscripts/face-recognition-automotive
+- Developed authentication system (login/register)
+- Implemented scheduling logic and validation
+- Integrated frontend with backend using PHP
+- Designed database interactions with MySQL
 
 ---
 
 ## 🇧🇷 Versão em Português
 
-Este projeto explora o uso de Inteligência Artificial e Visão Computacional para identificação de motoristas em ambientes automotivos.
+Este projeto consiste em um sistema web para gerenciamento de barbearia, permitindo cadastro, login e agendamento de horários.
 
 ### Funcionalidades
-- Detecção e reconhecimento facial  
-- Processamento de imagens  
-- Aplicação de técnicas de IA  
+- Login e cadastro de usuários  
+- Controle de sessão  
+- Sistema de agendamento  
+- Validação de horários  
 
 ### Tecnologias
-- Python, OpenCV, YOLO  
+- HTML, CSS, JavaScript  
+- PHP  
+- MySQL  
